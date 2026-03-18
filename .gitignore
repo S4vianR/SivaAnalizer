@@ -1,5 +1,6 @@
 .git
 
 sivaLexer
-sivaLexer.exe
+*.exe
+*.zip
 main
