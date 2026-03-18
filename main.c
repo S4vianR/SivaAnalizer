@@ -371,7 +371,7 @@ void print_tokens_json() {
 int main(int argc, char *argv[]) {
 
     if(argc < 2) {
-        printf("Uso: ./main <archivo.siv>\n");
+        printf("Uso: ./sivaLexer (usar .exe si estás en winows) <archivo.siv>\n");
         printf("Error: Debes especificar el archivo a analizar.\n");
         return 1;
     }
